@@ -86,6 +86,9 @@ footer{
     text-align: center;
     line-height: 5.5em;
 }
+.enfant2{
+    margin: auto;
+}
 @media (max-width:640px) {
  .photo{
     display: none;
